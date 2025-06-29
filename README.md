@@ -2,7 +2,7 @@
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
-*NAME* : CHINTHAPARTHI THISHITHA
+*NAME* : GHADIYARAM JAYA SAI SREE RAMA KUMAR
 
 *INTERN ID* : CT06DM1408
 
@@ -30,3 +30,10 @@ After training, the model's performance is evaluated using several metrics. The 
 
 In conclusion, this sentiment analysis project effectively demonstrates how machine learning can be used to analyze and classify text data. Starting from raw tweets, it walks through the entire process of cleaning, transforming, modeling, and evaluating the data. The use of Logistic Regression and TF-IDF ensures the approach remains efficient and interpretable. The modular design also makes it easy to extend—additional steps like stopword removal, lemmatization, or using advanced models like SVM or deep neural networks can be incorporated to further enhance performance. This project serves as a solid foundation for anyone looking to explore Natural Language Processing (NLP) and text classification in real-world applications.
 
+![Image](https://github.com/user-attachments/assets/50d7a3f2-9bb5-4b51-aa5f-b1459b31ffcf)
+
+![Image](https://github.com/user-attachments/assets/4b06ca0f-51c9-4f47-86aa-67a130ad8bbc)
+
+![Image](https://github.com/user-attachments/assets/bcc1011f-1626-496a-a2a9-ef8b0a960206)
+
+![Image](https://github.com/user-attachments/assets/93caf4d8-bb91-4b43-aa61-509461e9a437)
